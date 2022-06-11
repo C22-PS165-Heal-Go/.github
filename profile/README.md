@@ -13,7 +13,7 @@ Hello everyone 😊, we are from C22-PS165. We consist of 6 people and these are
 | :---: | :---: | :---: |
 | Aldi Saepurahman | A2299F2559 | Mobile Development |
 | I Wayan Pande Putra Yudha | A7014J1380 | Mobile Development |
-| Chrstina Prilla Rosaria Ardyanti | M2299F2556 | Machine Learning |
+| Christina Prilla Rosaria Ardyanti | M2299F2556 | Machine Learning |
 | Muhammad Ilham Malik | M2299F2560 | Machine Learning |
 | Hubertus Hans | C2005F0466 | Cloud Computing |
 | Nur Ridho Rizki | C2322F2827 | Cloud Computing |
