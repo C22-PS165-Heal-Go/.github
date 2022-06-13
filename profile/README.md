@@ -29,7 +29,12 @@ Tourism, Creative, and Digital Economy
 ## What is Heal&Go? 🤔
 Heal & Go is an application that recommend people a tourist destination in order to help those people to heal based on their preferences.
 
+<br>
+
 ## Documentation 📑
+
+👉[**Heal&Go Download Link**](https://drive.google.com/file/d/1KPYudrjIXKAqHEMPwwOiQk1-fJaX5s5o/view?usp=sharing)👈
+
 
 ### Getting Started
 - **Prerequisites**
