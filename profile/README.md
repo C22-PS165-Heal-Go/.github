@@ -28,3 +28,43 @@ Tourism, Creative, and Digital Economy
 
 ## What is Heal&Go? 🤔
 Heal & Go is an application that recommend people a tourist destination in order to help those people to heal based on their preferences.
+
+## Documentation 📑
+
+### Getting Started
+- **Prerequisites**
+
+  1.  Android
+  2.  Internet connection
+
+- **Installation**
+
+  1.  Download the APK
+  2.  Install the APK
+
+- **Register**
+
+  1.  Open Heal&Go application
+  2.  Register your email address
+
+### Usage
+- How to get recommendations for tourist attractions for healing?
+
+  1.  Login to your accounts
+  2.  Click “Start Now” button in home screen
+  3.  Answer all the questions in questionnaire screen, and then submit them
+  4.  You will be given some destination cards based on recommendations system
+  5.  You can choose “Interested” if you’re interested with the recommendations or choose “Not interested” if you’re not
+  6.  Make sure you’ve chosen “Interested” or “Not Interested” for all recommendation cards
+  7.  You will be redirected to home page again and you will see “top recommendation for you” list
+
+- How to see all of destinations in Heal&Go App
+
+  1.  Login to your account
+  2.  Click “Discover” menu
+
+- How to find destination in Heal&Go App
+
+  1.  Login to your account
+  2.  Click “Discover” menu
+  3.  You can find destination using category options or using search bar or even both
